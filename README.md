@@ -27,5 +27,5 @@ In conclusion, this EDA process provided valuable insights into the distribution
 Thank you for reviewing my submission!
 
 # Contact
-* www.linkedin.com/kantishita9 (Linkdin)
+* www.linkedin.com/in/kantishita9 (Linkdin)
 * Email : kantishita9@gmail.com
