@@ -6,7 +6,7 @@
 Here is my submission for Task 2 of the Data Science Internship at Prodigy Infotech. In this task, I have performed Data cleaning and Exploratory Data Analysis (EDA) on a dataset provided.
 
 # Dataset
-The data used for the task is test.csv data set.
+The dataset used for the task is [test.csv](test.csv)
 
 # Tools and Libraries Used: 
 * Jupyter notebook
