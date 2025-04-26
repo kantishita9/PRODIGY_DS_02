@@ -10,6 +10,7 @@ The dataset used for the task is [test.csv](test.csv)
 
 # Tools and Libraries Used: 
 * Jupyter notebook
+* Numpy
 * Pandas
 * Matplotlip & Seaborn for visualization
 
@@ -20,6 +21,9 @@ The dataset used for the task is [test.csv](test.csv)
 2. Data Cleaning: Checked for null values, missing values, and duplicates in the dataset and handled them accordingly.
 
 3. Visualization: Created a bar chart, for the Age distribution and count.
+
+# Knowledge Gained 
+I learned how to clean text data, turn it into numbers, and build a model to find spam messages. I also improved my skills in organizing projects and checking how well the model works.
 
 # Conclusion
 In conclusion, this EDA process provided valuable insights into the distribution of the selected variable in the dataset. This analysis lays the foundation for further exploration and modeling tasks in the data science workflow.
